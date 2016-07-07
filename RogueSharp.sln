@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueSharp", "RogueSharp\RogueSharp.csproj", "{20B9DC19-60F3-48BA-A8B3-A015D799DD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueSharp.Test", "RogueSharp.Test\RogueSharp.Test.csproj", "{AB69407F-64A8-413C-9D33-BCB2BED89BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B9DC19-60F3-48BA-A8B3-A015D799DD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B9DC19-60F3-48BA-A8B3-A015D799DD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B9DC19-60F3-48BA-A8B3-A015D799DD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B9DC19-60F3-48BA-A8B3-A015D799DD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB69407F-64A8-413C-9D33-BCB2BED89BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB69407F-64A8-413C-9D33-BCB2BED89BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB69407F-64A8-413C-9D33-BCB2BED89BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB69407F-64A8-413C-9D33-BCB2BED89BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
